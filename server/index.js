@@ -1,7 +1,7 @@
 import express from "express";
 import { Server } from "socket.io";
 import { createServer } from "http";
-import cors from "cors";
+// import cors from "cors";
 
 // NOTE: IN THIS APPLICATION, SERVER IS AT PORT 5001 AND CLIENT SERVER IS AT PORT ____
 
